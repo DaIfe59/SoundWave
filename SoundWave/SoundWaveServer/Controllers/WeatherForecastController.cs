@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SoundWaaveServer.Controllers;
+namespace SoundWaveServer.Controllers;
 
 [ApiController]
 [Route("[controller]")]

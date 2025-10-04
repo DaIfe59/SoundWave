@@ -1,4 +1,4 @@
-namespace SoundWaaveServer
+namespace SoundWaveServer
 {
     public class WeatherForecast
     {

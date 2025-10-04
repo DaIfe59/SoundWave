@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace SoundWave;
+namespace SoundWaveWPF;
 
 /// <summary>
 /// Interaction logic for App.xaml

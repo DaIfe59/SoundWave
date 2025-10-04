@@ -1,6 +1,0 @@
-@SoundWaaveServer_HostAddress = http://localhost:5018
-
-GET {{SoundWaaveServer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
